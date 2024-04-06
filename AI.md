@@ -343,6 +343,7 @@
 * ⭐ **[WhisperSpeech](https://huggingface.co/spaces/collabora/WhisperSpeech)** - [Discord](https://discord.com/invite/FANw4rHD5E)
 * ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
 * ⭐ **[Bark](https://huggingface.co/spaces/suno/bark)** - [Github](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
+* ⭐ **[NaturalReaders](https://www.naturalreaders.com/online/)** - Can read files + various languages + Free, Premium (20 min/day free) Plus (5 min/day free)
 * [Balabolka](https://www.cross-plus-a.com/bportable.htm)
 * [ttsMP3](https://ttsmp3.com/)
 * [Vall-e](https://github.com/enhuiz/vall-e)
@@ -374,11 +375,10 @@
 * [Nuance](https://www.nuance.com/de-de/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html)
 * [VoiceMaker](https://voicemaker.in/)
 * [readloud](https://readloud.net/)
-* [NaturalReaders](https://www.naturalreaders.com/online/)
 * [TTS](https://github.com/coqui-ai/tts)
 * [Clash](https://clash.me/)
 * [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts)
-* [TTS Paper](https://github.com/coqui-ai/TTS-papers) - Text to Speech Papers
+* [TTS Paper](https://github.com/coqui-ai/TTS-papers) - Papers about Text to Speech 
 
 ***
 
