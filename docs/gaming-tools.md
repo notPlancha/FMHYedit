@@ -384,6 +384,7 @@
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / WiiU Homebrew App Store
 * [Switch Guide](https://switch.hacks.guide/) - Switch Homebrew Guide
 * [Switchway](https://switchway.net/) - Switch Homebrew Guide
+* [Switch Hacking Is (still) Easy](https://gitlab.com/easyhacking/switch/-/wikis/home)- Switch Homebrew Guide
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
 * [FlagBrew](https://flagbrew.org/) - Switch Homebrew / [Discord](https://discord.com/invite/4Rv8DTzGFa)
