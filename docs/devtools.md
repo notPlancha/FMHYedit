@@ -414,7 +414,7 @@
 * [Code2Prompt](https://github.com/mufeedvh/code2prompt) - Convert Codebase to LLM Prompt
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
-
+* [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/) - Datasets for Machine Learning
 ***
 
 # ► Game Dev Tools
